@@ -8,7 +8,7 @@ namespace BakingConvertLibrary
 {
     public class Cup : IConvert
     {
-        public double cup;
+        
         public double Convert(double deciliter)
         {
             return deciliter * 0.4; 

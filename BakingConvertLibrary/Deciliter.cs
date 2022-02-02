@@ -8,7 +8,6 @@ namespace BakingConvertLibrary
 {
     public class Deciliter:IConvert
     {
-        public double deciliter;
 
         public double Convert(double cup)
         {

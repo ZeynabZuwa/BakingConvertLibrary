@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	  <Version>1.0.0.23</Version>
-	  <AssemblyVersion>1.0.0.23</AssemblyVersion>
+	  <AssemblyVersion>1.0.0.24</AssemblyVersion>
 	  <Authors>Zeynab Zuwa</Authors>
 	  <Description>It converts from deciliter to cup and from cup to deciliter</Description>
 	  <PackageProjectUrl>
