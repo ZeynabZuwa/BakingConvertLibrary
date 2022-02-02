@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BakingConvertLibrary
 {
-    internal class Factory
+    public class Factory
     {
         public IConvert GetMeasurment(string mesasrumentName)
         {
